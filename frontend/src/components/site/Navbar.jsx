@@ -59,7 +59,7 @@ export default function Navbar() {
               padding: 0,
             }}
           >
-            <img src="/logo.png?v=2" alt="OpalOliva Logo" style={{ height: '48px', width: '48px', borderRadius: '50%', mixBlendMode: 'multiply', objectFit: 'cover' }} />
+            <img src="/logo.jpg?v=3" alt="OpalOliva Logo" style={{ height: '48px', width: '48px', borderRadius: '50%', objectFit: 'cover' }} />
             <span style={{
               fontFamily: 'var(--font-display)',
               fontSize: '1.4rem',
