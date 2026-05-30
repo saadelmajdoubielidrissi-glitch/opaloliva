@@ -33,8 +33,8 @@ export default function About() {
               aspectRatio: '3/4',
             }}>
               <img
-                src={IMAGES.about}
-                alt="Lovei Péter az olajfák között"
+                src="/images/peter.jpg"
+                alt="Lovei Péter"
                 style={{ width: '100%', height: '100%', objectFit: 'cover' }}
               />
             </div>
