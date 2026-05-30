@@ -26,7 +26,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '16px' }}>
-              <img src="/logo.png" alt="OpalOliva Logo" style={{ height: '36px', width: 'auto', borderRadius: '50%', mixBlendMode: 'multiply' }} />
+              <img src="/logo.png?v=2" alt="OpalOliva Logo" style={{ height: '36px', width: '36px', borderRadius: '50%', mixBlendMode: 'multiply', objectFit: 'cover' }} />
               <span style={{ fontFamily: 'var(--font-display)', fontSize: '1.4rem', fontWeight: 700, color: '#fff' }}>
                 OpalOliva
               </span>
