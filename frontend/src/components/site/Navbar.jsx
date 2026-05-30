@@ -52,14 +52,14 @@ export default function Navbar() {
             style={{
               display: 'flex',
               alignItems: 'center',
-              gap: '10px',
+              gap: '12px',
               background: 'none',
               border: 'none',
               cursor: 'pointer',
               padding: 0,
             }}
           >
-            <span style={{ fontSize: '1.8rem', lineHeight: 1 }}>🫒</span>
+            <img src="/logo.png" alt="OpalOliva Logo" style={{ height: '48px', width: 'auto', borderRadius: '50%' }} />
             <span style={{
               fontFamily: 'var(--font-display)',
               fontSize: '1.4rem',
